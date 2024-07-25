@@ -10,8 +10,5 @@
       "statusCode": 302,
       "redirect": "/.auth/login/aad?post_login_redirect_uri=https://jandan.net/"
     }
-  },
-    "navigationFallback": {
-        "rewrite": "/index.html"
-    }
+  }
 }
